@@ -2,7 +2,7 @@
 I'm a self-taught passionate frontend developer
 
 **🌱 My skills:**
-[html5](https://github.com/Nuruddin999/Nuruddin999/blob/main/images.png)
+![html5](https://github.com/Nuruddin999/Nuruddin999/blob/main/images.png)
 <code><img height="60"  alt="javascript" src="/images.png"></code>
 <code><img height="60"  alt="javascript" src="/800px-JavaScript-logo.png"></code>
 <code><img height="60"  alt="react" src="/download.png"></code>
