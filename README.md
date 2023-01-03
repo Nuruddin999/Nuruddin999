@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Nuruddin999
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nuruddin, frontend developer
+- 🌱 My skills: html css js reactjs redux typescript webpack nodejs
+- 💞️ I’m looking opportunity to work in interesting project
+- 📫 How to reach me: 
+- email: sg7720@gmail.com
+- whatsapp/telegram: +79884425157
 
 <!---
 Nuruddin999/Nuruddin999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
