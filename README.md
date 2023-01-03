@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Nuruddin, frontend developer
-- 🌱 My skills: html css js reactjs redux typescript webpack nodejs
+## 👋 Hi, I’m Nuruddin, 
+I'm a self-taught passionate frontend developer
+
+**🌱 My skills:**
+
+html css js reactjs redux typescript webpack nodejs
 - 💞️ I’m looking opportunity to work in interesting project
 - 📫 How to reach me: 
 - email: sg7720@gmail.com
