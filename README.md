@@ -3,7 +3,7 @@ I'm a self-taught passionate frontend developer
 
 **🌱 My skills:**
 
-<code><img height="80"  alt="javascript" src="/images.png" style="background:"white";"></code>
+<code><img height="80"  alt="javascript" src="/images.png" style="background:white;"></code>
 <code><img height="80"  alt="javascript" src="/800px-JavaScript-logo.png"></code>
 <code><img height="80"  alt="react" src="/download.png"></code>
 <code><img height="80"  alt="typescript" src="/Redux-Saga-Logo-Portrait.png"></code>
