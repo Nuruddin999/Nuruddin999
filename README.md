@@ -3,12 +3,11 @@ I'm a self-taught passionate frontend developer
 
 **🌱 My skills:**
 ![html5](images.png)
-<code><img height="60"  alt="javascript" src="/images.png"></code>
-<code><img height="60"  alt="javascript" src="/800px-JavaScript-logo.png"></code>
-<code><img height="60"  alt="react" src="/download.png"></code>
-<code><img height="60"  alt="typescript" src="/Redux-Saga-Logo-Portrait.png"></code>
-<code><img height="60" alt="graphql" src="/logo-on-white-bg.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="80"  alt="javascript" src="/800px-JavaScript-logo.png"></code>
+<code><img height="80"  alt="react" src="/download.png"></code>
+<code><img height="80"  alt="typescript" src="/Redux-Saga-Logo-Portrait.png"></code>
+<code><img height="80" alt="graphql" src="/logo-on-white-bg.png"></code>
+<code><img height="80" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 html css js reactjs redux typescript webpack nodejs
 - 💞️ I’m looking opportunity to work in interesting project
 - 📫 How to reach me: 
