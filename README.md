@@ -2,7 +2,8 @@
 I'm a self-taught passionate frontend developer
 
 **🌱 My skills:**
-![html5](images.png)
+
+<code><img height="80"  alt="javascript" src="/images.png"></code>
 <code><img height="80"  alt="javascript" src="/800px-JavaScript-logo.png"></code>
 <code><img height="80"  alt="react" src="/download.png"></code>
 <code><img height="80"  alt="typescript" src="/Redux-Saga-Logo-Portrait.png"></code>
