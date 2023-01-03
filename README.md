@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Nuruddin, 
 I'm a self-taught passionate frontend developer
 
-**🌱 My skills:**
+## 🌱 My skills:
 
 <code><img height="80"  alt="javascript" src="/images.png" style="background:white;"></code>
 <code><img height="80"  alt="javascript" src="/800px-JavaScript-logo.png"></code>
@@ -10,7 +10,6 @@ I'm a self-taught passionate frontend developer
 <code><img height="80"  alt="typescript" src="/Redux-Saga-Logo-Portrait.png"></code>
 <code><img height="80" alt="graphql" src="/logo-on-dark-bg.png"></code>
 <code><img height="80" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
-html css js reactjs redux typescript webpack nodejs
 - 💞️ I’m looking opportunity to work in interesting project
 ## 📫 How to reach me: 
 - email: sg7720@gmail.com
