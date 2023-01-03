@@ -15,7 +15,7 @@ html css js reactjs redux typescript webpack nodejs
 - 📫 How to reach me: 
 - email: sg7720@gmail.com
 - [<code><img height="20" alt="nodejs" src="/WhatsApp.svg.png"><span>whatsapp</span></code>](https://wa.me/7884425157)
-- whatsapp/telegram: +79884425157
+- <code><img height="20" alt="nodejs" src="/Telegram_logo.svg.png"><span>@nuruddin999</span></code>
 - my projects: [consilium](https://github.com/Nuruddin999/consilium_demo)
 
 <!---
