@@ -14,7 +14,7 @@ html css js reactjs redux typescript webpack nodejs
 - 💞️ I’m looking opportunity to work in interesting project
 - 📫 How to reach me: 
 - email: sg7720@gmail.com
-- <code><img height="80" alt="nodejs" src="/WhatsApp.svg.png"></code>  [whatsapp](https://wa.me/7884425157)
+- [<code><img height="20" alt="nodejs" src="/WhatsApp.svg.png"></code> whatsapp](https://wa.me/7884425157)
 - whatsapp/telegram: +79884425157
 - my projects: [consilium](https://github.com/Nuruddin999/consilium_demo)
 
