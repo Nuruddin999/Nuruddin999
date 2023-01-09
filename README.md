@@ -14,7 +14,7 @@ I'm a self-taught passionate frontend developer
 ## 📫 How to reach me: 
 - email: sg7720@gmail.com
 - [<code><img height="20" alt="nodejs" src="/WhatsApp.svg.png"><span>whatsapp</span></code>](https://wa.me/7884425157)
-- <code><img height="20" alt="nodejs" src="/Telegram_logo.svg.png"><span>@nuruddin999</span></code>
+- [<code><img height="20" alt="nodejs" src="/Telegram_logo.svg.png"><span>@nuruddin999</span></code>](https://t.me/nuruddin999)
 
 <!---
 Nuruddin999/Nuruddin999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
