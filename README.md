@@ -14,7 +14,7 @@ I'm a self-taught passionate frontend developer
 ## 📫 How to reach me: 
 - email: nurdev9@yandex.com
 - [<code><img height="20" alt="nodejs" src="/WhatsApp.svg.png"><span>whatsapp</span></code>](https://wa.me/7884425157)
-- [<code><img height="20" alt="nodejs" src="/Telegram_logo.svg.png"><span>@nuruddin999</span></code>](https://t.me/reactor_nur)
+- [<code><img height="20" alt="nodejs" src="/Telegram_logo.svg.png"><span>@reactor_nur</span></code>](https://t.me/reactor_nur)
 
 <!---
 Nuruddin999/Nuruddin999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
