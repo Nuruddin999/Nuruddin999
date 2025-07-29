@@ -12,9 +12,9 @@ I'm a self-taught passionate frontend developer
 <code><img height="80" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 - 💞️ I’m looking opportunity to work in interesting project
 ## 📫 How to reach me: 
-- email: sg7720@gmail.com
+- email: nurdev9@yandex.com
 - [<code><img height="20" alt="nodejs" src="/WhatsApp.svg.png"><span>whatsapp</span></code>](https://wa.me/7884425157)
-- [<code><img height="20" alt="nodejs" src="/Telegram_logo.svg.png"><span>@nuruddin999</span></code>](https://t.me/nuruddin999)
+- [<code><img height="20" alt="nodejs" src="/Telegram_logo.svg.png"><span>@nuruddin999</span></code>](https://t.me/reactor_nur)
 
 <!---
 Nuruddin999/Nuruddin999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
